@@ -7,7 +7,7 @@
       <div style="display: flex">
         <h1>
           <img
-            src="https://www.novisetianurviat.com/images/comp/novi.jpg"
+            src="https://elsamara.id/wp-content/uploads/2020/11/33215.jpg"
           />FAJAR ARIYANTO
         </h1>
       </div>
@@ -72,7 +72,7 @@
           </h2>
           <div id="app">
             <h3>
-              &#128092;  WORK EXPERIENCE
+              &#128092; WORK EXPERIENCE
               <hr />
             </h3>
             <div style="column-count: 2">
@@ -95,7 +95,7 @@
           </div>
           <br />
           <div id="ppa">
-            <h3>&#128213;  PENDIDIKAN</h3>
+            <h3>&#128213; PENDIDIKAN</h3>
             <hr />
             <div style="column-count: 2">
               <b>MASTER DEGREE</b><br />Feb 2011-Jun 2014 <br /><br />
@@ -112,29 +112,53 @@
           </div>
           <br />
           <div id="opo">
-            <h3> &#128161;  KEAHLIAN</h3>
+            <h3>&#128161; KEAHLIAN</h3>
             <hr />
-            <div style="column-count:2">
+            <div style="column-count: 2">
               <p><b>PROFESSIONAL SKILLS</b></p>
               <div style="column-count: 2">
-                Microsoft Windows 
-                <p>Windows  </p>
+                Microsoft Windows
+                <p>Windows</p>
                 <p>mac OSX</p>
                 <p>Data Headling</p>
                 <p>Record Kepping</p>
                 <p>Web Skills</p>
 
-              <p>&#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity:0.5">&#9899;&#9899;</span></p>
-              <p>&#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity:0.5">&#9899;&#9899;</span></p>
-              <p>&#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity:0.5">&#9899;&#9899;</span></p>
-              <p>&#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity:0.5">&#9899;&#9899;</span></p>
-              <p>&#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity:0.5">&#9899;&#9899;</span></p>
-              <p>&#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity:0.5">&#9899;&#9899;</span></p>
+                <p>
+                  &#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity: 0.5"
+                    >&#9899;&#9899;</span
+                  >
+                </p>
+                <p>
+                  &#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity: 0.5"
+                    >&#9899;&#9899;</span
+                  >
+                </p>
+                <p>
+                  &#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity: 0.5"
+                    >&#9899;&#9899;</span
+                  >
+                </p>
+                <p>
+                  &#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity: 0.5"
+                    >&#9899;&#9899;</span
+                  >
+                </p>
+                <p>
+                  &#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity: 0.5"
+                    >&#9899;&#9899;</span
+                  >
+                </p>
+                <p>
+                  &#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity: 0.5"
+                    >&#9899;&#9899;</span
+                  >
+                </p>
               </div>
-                
-               <p><b>PERSONAL</b></p>
-              <div style="column-count:2">
-                <p>Organistion   </p>   
+
+              <p><b>PERSONAL</b></p>
+              <div style="column-count: 2">
+                <p>Organistion</p>
                 <p>Communication</p>
                 <p>Time Keeping</p>
                 <p>Team Player</p>
@@ -142,14 +166,37 @@
                 <p>Multitasking</p>
 
                 <p>.</p>
-              <p>&#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity:0.5">&#9899;&#9899;</span></p> 
-              <p>&#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity:0.5">&#9899;&#9899;</span></p> 
-              <p>&#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity:0.5">&#9899;&#9899;</span></p> 
-              <p>&#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity:0.5">&#9899;&#9899;</span></p> 
-              <p>&#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity:0.5">&#9899;&#9899;</span></p> 
-              <p>&#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity:0.5">&#9899;&#9899;</span></p> 
-
-            </div>
+                <p>
+                  &#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity: 0.5"
+                    >&#9899;&#9899;</span
+                  >
+                </p>
+                <p>
+                  &#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity: 0.5"
+                    >&#9899;&#9899;</span
+                  >
+                </p>
+                <p>
+                  &#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity: 0.5"
+                    >&#9899;&#9899;</span
+                  >
+                </p>
+                <p>
+                  &#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity: 0.5"
+                    >&#9899;&#9899;</span
+                  >
+                </p>
+                <p>
+                  &#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity: 0.5"
+                    >&#9899;&#9899;</span
+                  >
+                </p>
+                <p>
+                  &#9899;&#9899;&#9899;&#9899;&#9899;<span style="opacity: 0.5"
+                    >&#9899;&#9899;</span
+                  >
+                </p>
+              </div>
             </div>
           </div>
         </div>
@@ -185,7 +232,7 @@ export default {
 </script>
 <style scoped>
 body {
-  /* font-family: "Courier New", Courier, monospace; */
+  font-family: "Courier New", Courier, monospace;
 }
 .op {
   background-color: whitesmoke;
@@ -210,7 +257,7 @@ body {
   border-radius: 0px;
 }
 .flex-container > div {
-  background-color:  rgb(0, 0, 63);
+  background-color: rgb(0, 0, 63);
   margin: 0px;
   padding: 0px;
   margin-left: 80px;
@@ -251,7 +298,6 @@ img {
   background-color: yellow;
   float: top;
   border: 8px solid whitesmoke;
-  
 }
 p,
 ul,
@@ -267,7 +313,7 @@ li {
 hr {
   border-top: 2px dotted black;
 }
-h3{
-  font-family: 'Courier New', Courier, monospace;
+h3 {
+  font-family: "Courier New", Courier, monospace;
 }
 </style>

@@ -43,15 +43,15 @@
             Hobbies
             <hr />
           </h3>
-         
+
           <ul>
             <li>{{ user.hobi1 }}</li>
             <li>{{ user.hobi2 }}</li>
             <li>{{ user.hobi3 }}</li>
             <li>{{ user.hobi4 }}</li>
           </ul>
-          </div>
-       
+        </div>
+
         <div class="pp">
           <h3>Summary</h3>
           <hr />
@@ -60,13 +60,13 @@
           <h3>Skill Highlights</h3>
           <hr />
           <ul>
-            <div style=" column-count:2;">
-            <li>{{ user.exp1 }}</li>
-            <li>{{ user.exp2 }}</li>
-            <li>{{ user.exp3 }}</li>
-            <li>{{ user.exp4 }}</li>
-            <li>{{ user.exp5 }}</li>
-            <li>{{ user.exp6 }}</li>
+            <div style="column-count: 2">
+              <li>{{ user.exp1 }}</li>
+              <li>{{ user.exp2 }}</li>
+              <li>{{ user.exp3 }}</li>
+              <li>{{ user.exp4 }}</li>
+              <li>{{ user.exp5 }}</li>
+              <li>{{ user.exp6 }}</li>
             </div>
           </ul>
 
